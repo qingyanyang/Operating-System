@@ -8,3 +8,5 @@ first come first serve,
 Shortest-job-first,
 Shortest-remaining-time-first,
 Priority scheduling.
+
+(both got full mark)
